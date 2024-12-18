@@ -10,9 +10,11 @@
 I'm ari from Surabaya, Indonesia<br>
 <br>
 I am a motivated student pursuing a degree in Informatics with a strong passion for technology and software engineering. My professional journey began in the construction and environmental sectors, where I gained six years of experience as a surveyor and drafter, honing my technical and analytical skills.
-<br>
+  
+
 I started my career as an intern drafter and quickly progressed to roles such as Assistant Supervisor and Surveyor, before transitioning to work as a Drafter at an environmental consultancy firm. These roles have equipped me with problem-solving abilities, teamwork skills, and attention to detail.
-<br>
+
+
 Driven by a desire to explore new challenges, I am now committed to a career in software engineering. I am adaptive, optimistic, and continually learning to enhance my technical capabilities. My diverse background, coupled with my passion for technology, allows me to bring a unique perspective to problem-solving and innovation.
 <br>
 <br>
